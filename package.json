@@ -11,7 +11,7 @@
         "strapi": "^3.6.10"
     },
     "engines": {
-        "node": "13.14.0"
+        "node": "18.x"
     },
     "scripts": {
         "start": "node app.js",
